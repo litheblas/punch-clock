@@ -1,0 +1,2 @@
+# Interfacing with the RPi
+RPI.GPIO==0.6.2
